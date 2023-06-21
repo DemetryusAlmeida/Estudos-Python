@@ -1,4 +1,4 @@
-primeiro = int(input('Primeiro número: '))
-segundo = int(input('segundo número: '))
-soma = primeiro + segundo
-print('A soma dos dois números é', soma)
+dia = input('Que dia que você nasceu? ')
+mes = input('Que mês você nasceu? ')
+ano = input('Que ano você nasceu? ')
+print('Você nasceu no dia', dia, 'de', mes, 'de', ano)

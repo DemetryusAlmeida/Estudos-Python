@@ -1,4 +1,3 @@
-dia = input('Que dia que você nasceu? ')
-mes = input('Que mês você nasceu? ')
-ano = input('Que ano você nasceu? ')
-print('Você nasceu no dia', dia, 'de', mes, 'de', ano)
+nome = input('Qual é o seu nome? ')
+print('Olá', nome, ', prazer em te conhecer')
+print('Olá, Mundo!')
